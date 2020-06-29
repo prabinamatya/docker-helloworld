@@ -14,6 +14,6 @@ To run this image:
 docker run -p 80:80/tcp "prabinamatya/helloworld:latest"
 ```
 
-Dockerhub link: https://hub.docker.com/r/prabinamatya/helloworld/
+Dockerhub link: https://hub.docker.com/r/prabinamatya/docker-helloworld/
 
 Github link: https://github.com/prabinamatya/docker-helloworld
